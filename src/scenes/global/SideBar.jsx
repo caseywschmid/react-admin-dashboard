@@ -106,7 +106,7 @@ const SideBar = () => {
                   Casey Schmid
                 </Typography>
                 <Typography variant="h5" color={colors.greenAccent[500]} font>
-                  Ultra Fancy VP{" "}
+                  Ultra Fancy VP
                 </Typography>
               </Box>
             </Box>
